@@ -1,0 +1,262 @@
+@\import "https://malscraper.azurewebsites.net/covers/auto/presets/dataimagelinkafter";
+body {
+    background-color: #222222 !important;
+    margin: 0 0 0 0;
+    color: white !important;
+    text-align: center;
+    font-family: Arial;
+    font-size: 13px;
+    background-image: url(https://mykes.s-ul.eu/pL6jCGQC);
+}
+.list-table .list-table-data .data.title {
+    padding-left: 1px;
+    text-align: left;
+}
+.list-table .list-table-data .data a {
+    color: #FFFF !important;
+}
+.list-table .list-table-data .data.title .link {
+    font-size: 1.3em;
+    font-weight: normal;
+}
+.list-table .list-table-data .data.score .link {
+    font-size: 2.1em;
+    font-weight: bold;
+    color: #1985ff !important;
+}.list-table .list-table-data .data.score .link {
+    font-size: 2.1em;
+    font-weight: bold;
+    color: #ff00a0 !important;
+}
+.list-table .list-table-data a:not(.edit-disabled):hover {
+    color: #ffff !important;
+}
+.list-table .list-table-header .header-title .link.sort {
+    position: relative;
+    display: inline-block;
+    color: #ff00a0;
+    white-space: nowrap;
+    -moz-transition-property: all;
+    -o-transition-property: all;
+    -webkit-transition-property: all;
+    transition-property: all;
+    -moz-transition-duration: 0.3s;
+    -o-transition-duration: 0.3s;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -moz-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    -webkit-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
+}
+.list-table .list-table-header .header-title .link {
+    font-size: 16px;
+    color: #ff00a0;
+    text-decoration: none;
+}.list-unit .list-status-title .text {
+    display: table-cell;
+    width: 1024px;
+    height: 38px;
+    font-size: 2.0em;
+    color: #FFFF;
+    font-weight: bold;
+    font-family: 'Helvetica neue', Helvetica, "lucida grande", tahoma, verdana, arial, sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
+.status-menu-container .status-menu .status-button {
+    position: relative;
+    display: table-cell;
+    padding: 12px 0;
+    margin: 0;
+    font-family: 'Helvetica neue', Helvetica, "lucida grande", tahoma, verdana, arial, sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.4em;
+    color: #ff00a0;
+}
+a {
+    color: #ff00a0;
+    text-decoration: none;
+}
+.list-table .list-table-data .tags .edit {
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: lime !important;
+    font-size: 16px;
+    font-family: 'Helvetica neue', Helvetica, "lucida grande", tahoma, verdana, arial, sans-serif;
+}
+.status-menu-container .status-menu .status-button:after {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #ff00a0;
+    display: block;
+    width: 100%;
+    height: 4px;
+    content: '';
+    opacity: 0;
+    -moz-transition-property: all;
+    -o-transition-property: all;
+    -webkit-transition-property: all;
+    transition-property: all;
+    -moz-transition-duration: 0.3s;
+    -o-transition-duration: 0.3s;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -moz-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    -webkit-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
+}
+.list-table .list-table-data .data.title .add-edit-more {
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 0.9em;
+}
+.list-table .list-table-data .data.title .link {
+    font-size: 1.3em;
+    font-weight: normal;
+    padding-right: 10px;
+}
+.list-table .list-table-data .data.title .add-edit-more {
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-left: 15px;
+    padding-top:20px;
+    font-size: 0.9em;
+}
+
+body{
+background-size: cover !important;
+background-attachment: fixed !important;
+}
+
+.list-table > tbody:nth-of-type(2n+1),
+.list-table, .list-container,  
+.list-table .list-table-header .header-title{
+  background-color: transparent !important;
+     border: 0 transparent solid !important;
+}
+.list-table .list-table-data .data{
+  border: 0 transparent solid !important;
+}
+
+.status-menu-container{
+  background-color: rgba(0,0,0,1) !important;
+}
+
+.cover-block {
+padding-left: 17px;
+padding-right: 17px;
+}
+
+.list-block, .cover-block{
+  background-color: rgba(0,0,0,.9) !important;
+}
+.list-unit .list-status-title {
+    position: relative;
+    display: table;
+    background-color: #ff00a0;
+    width: 1024px;
+    height: 38px;
+    border-left: 0px solid #444 !important;
+    border-right: 0px solid #444 !important;
+}
+.status-menu-container .status-menu .status-button.on {
+    color: #ffffff;
+    font-weight: bold;
+}.list-unit .list-status-title .stats a {
+    margin-right: 8px;
+    color: #ffffff;
+    font-size: 17px;
+}.list-menu-float .icon-menu svg.icon {
+    position: absolute;
+    fill: #ffffff;
+}
+.data.image a:after{
+width: 200px;
+height: 300px;
+}
+
+
+.data.image a:after{
+position: fixed;
+top: 40%;
+left: calc(50% - 750px);   
+}
+
+
+.data.image a:after
+{content: "";
+display: block !important;
+background-color: rgba(0,0,0,.3);
+background-position: center !important;
+background-repeat: no-repeat !important;
+background-size: cover;
+border: 1px solid #ffffff;
+box-shadow: 0 2px 5px rgba(0,0,0, 0.7);
+visibility: hidden;
+opacity: 0;
+transition: opacity .8s linear, margin-left .5s ease, transform 1s ease-in-out;
+z-index: 5;}
+ 
+ 
+.list-table .list-table-data:hover .data.image a:after {
+visibility: visible;
+opacity: 1;
+transition: .3s ease-out;}
+
+
+.cover-block::after {
+height: 120px !important;
+width: 120px! important;
+background-repeat: no-repeat;
+background-size: contain;
+position: absolute;
+display:block !important;
+margin-left:57px;
+margin-top:-70px;
+content: "";
+z-index: 2 !important;
+padding: 5px;
+background-color:#fff;
+box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.3);
+border-radius:5px;
+border: #fff 2px solid;
+}
+
+.cover-block::before {
+position: absolute;
+display:block !important;
+margin-left:200px;
+bottom:40px;
+width: 300px;
+color: #ffffff;
+font-size: 29px !important;
+font-family: Rancho;
+text-align: left;
+text-shadow: 0 0 2px #000, 0 0 1px #000, 1px 1px 7px #000, 0 0 0 #000 !important;
+letter-spacing: 0 !important; 
+}
+.status-menu-container .status-menu {
+    display: table;
+    margin: 0 auto;
+    border-collapse: separate;
+    border-spacing: 40px 0;
+    font-size: 11px;
+    font-weight:bold;
+    padding-left: 160px;
+}
+.status-menu-container .search-container #search-button {
+    display: inline-block;
+    height: 22px;
+    color: #FFFF;
+    margin-top: 15px;
+    font-size: 1.2em;
+    vertical-align: middle;
+}
+.cover-block::after {background-image: url("https://mykes.s-ul.eu/8AsHBEZ4");}
